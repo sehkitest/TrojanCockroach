@@ -2,7 +2,7 @@
 
 #### A Stealthy Trojan Spyware
 
-You are looking at a **Trojan Virus** that steals data (ID, password; every key stroke) from PC (Windows XP or later), then emails them back to you. It spreads among PCs through USB drives, and is almost undetectable to any antivirus software.
+You are looking at a **Trojan Virus** that steals data (ID, Password; every Keystrokes) from PC (Windows XP or later), then emails them back to you. It spreads among PCs through USB drives, and its almost undetectable to any antivirus software.
 
 *Created only for learning purpose.*
 
